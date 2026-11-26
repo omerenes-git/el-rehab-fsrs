@@ -648,6 +648,18 @@ Kuvvetlendirme, CRPS bulguları dinlenmediği sürece ilerletilmez.</li>
 <h3 id="klinik-karar-provası">Klinik karar provası</h3>
 <p>İlk kontrol listesinde onarılan yapılar, ekstansiyon sınırı, ön kol pozisyonu, aktif hareket ve yük izni yer alır. Hastanın oturur veya sırtüstü pozisyonda egzersizi geri göstermesini iste. Dirsek desteksiz yana düşüyorsa kol desteğini ve hareket yönünü yeniden ayarla. Sonraki kontrolde aynı pozisyonda arkı ve ağrı yanıtını kaydet. Nörovasküler belirti, yeni instabilite hissi veya travma varsa rutin ilerleme planından önce değerlendirme yapılır.</p>
 <p><strong>Günlük yaşam hedefi:</strong> Kol gövdeye yakın ve destekli bir pozisyonda yüzünü yıkama veya hafif nesneye uzanma. Desteğin azaltılması ve direnç eklenmesi, cerrahın stabilite ve doku kısıtlamalarına göre ayrıştırılır. <a class="wl" href="#" data-note="07_Dirsek">Dirsek</a> · <a class="wl" href="#" data-note="02_Mesleki_Uygulama_ve_Kanit" data-h="3-3-prognoz-yeniden-değerlendirme-ve-aktiviteye-dönüş">02 Mesleki Uygulama ve Kanit › 3.3 Prognoz, Yeniden Değerlendirme ve Aktiviteye Dönüş</a></p>
+<h3 id="muayene-bulguları">Muayene Bulguları</h3>
+<ul>
+<li><strong>Yara ve Nörovasküler Durum:</strong> Postop 5. gün; lateral kesi kuru, dirsek çevresinde orta ödem, ulnar sinir motor/duyu muayenesi ile distal nabız normal; Essex-Lopresti dışlaması için bilek/DRUJ palpasyonu ağrısız ve stabil.</li>
+<li><strong>Hareket ve Pozisyon:</strong> Sırtüstü overhead pozisyonda ön kol pronasyonda iken cerrahın izin verdiği stabil arkta (30–110° fleksiyon) kontrollü aktif-yardımlı fleksiyon-ekstansiyon rahat ve instabilite hissi yok.</li>
+</ul>
+<h3 id="faz-bazlı-ilerleme-kırmızı-bayraklar-ve-hasta-eğitimi">Faz Bazlı İlerleme, Kırmızı Bayraklar ve Hasta Eğitimi</h3>
+<ul>
+<li><strong>0–3/4. hafta:</strong> Menteşeli ekstansiyon bloklu ortez; ilk 6 hafta omuz abdüksiyonundan (varus momenti) ve son ekstansiyonda supinasyondan kaçınılır (izole LUCL&#39;de ön kol pronasyonda; MCL de onarıldıysa nötralde). Sırtüstü overhead aktif/aktif-yardımlı ark çalışılır.</li>
+<li><strong>4–6+ hafta:</strong> Cerrah onayıyla ekstansiyon bloğu haftalık açılır; 6+ hafta kemik/bağ stabilitesi doğrulandığında sertlik sürerse ağrısız düşük yük-uzun süre (LLPS statik progresif) ortez eklenebilir; dirençli egzersizler kaynama sonrası (~8–12. hafta) başlar.</li>
+<li><strong>Kırmızı Bayraklar ve Geri Çekilme:</strong> Ani ROM kaybı + taş gibi kemiksi uç his + lokal sıcaklık (Heterotopik Ossifikasyon — zorlamalı pasif germe derhal kesilir!), yeni ulnar nöropati veya boşalma/instabilite hissinde progresyon durdurulup cerraha bildirilir.</li>
+<li><strong>Hasta Eğitimi:</strong> Zorlamalı pasif germenin HO ve inflamasyonu tetiklediği, kolu gövdeden yana açmadan overhead çalışmanın gerekliliği ve Morrey fonksiyonel arkı (30–130° fleksiyon, 50/50° rotasyon) hedefi açıklanır.</li>
+</ul>
 <hr>
 <h2 id="vaka-15-skafoid-bel-kırığı-ve-slil-instabilitesi-dtm">VAKA 15 — SKAFOİD BEL KIRIĞI VE SLİL İNSTABİLİTESİ (DTM)</h2>
 <p><strong>Hasta:</strong> 24 yaşında erkek, basketbolcu; 6 hafta önce düşme sonrası skafoid bel kırığı nedeniyle kanüllü <strong>Herbert vidası</strong> + parsiyel SLIL debridmanı/desteği yapılmış; erken kaynama radyografisi temiz görünüyor.</p>
@@ -663,12 +675,23 @@ Kuvvetlendirme, CRPS bulguları dinlenmediği sürece ilerletilmez.</li>
 <li><strong>Biyomekanik Seçim:</strong> Skafolunat instabilitede nötr düzlem yerine oblik düzlem olan <strong>Dart Thrower&#39;s Motion (DTM — radial ekstansiyondan ulnar fleksiyona)</strong> hareketi, hareketi başlıca <strong>midkarpal</strong> eklemden üretip skafoid ve lunat arası ayrılma makaslamasını en aza indirir.</li>
 <li><strong>Dinamik SL Stabilizatör Kasları:</strong> Proksimal sırayı stabilize eden <strong>FCR, ECRL ve APL</strong> erken/subakut dönemde izometrik/hafif eksantrik eğitilirken, skafoidi pronasyona ve SL aralığını açmaya meyleden izole yoğun <strong>ECU</strong> yüklemesi SLIL iyileşene dek geciktirilir.</li>
 </ul>
+<h3 id="muayene-faz-ilerlemesi-ve-kırmızı-bayraklar">Muayene, Faz İlerlemesi ve Kırmızı Bayraklar</h3>
+<ul>
+<li><strong>Muayene (6. hafta):</strong> Dorsal radiokarpal hassasiyet hafif, enfiye çukuru ağrısı gerilemiş; grafide vida pozisyonu ve SL dizilimi (DISI yok) korunmuş. İyileşen SLIL&#39;i zorlamamak için Watson testi erken dönemde agresif uygulanmaz.</li>
+<li><strong>Faz İlerlemesi ve Geri Çekilme:</strong> 6–8. haftada DTM koridorunda aktif ROM + Hagert bilinçli eklem pozisyon hissi ve SL-dostu izometrik ko-aktivasyon (FCR, ECRL, APL); 8–12+ haftada eksantrik/dinamik stabilizasyon, hafif kapalı zincir propriyosepsiyon ve basketbola kademeli dönüş. Dorsal ağrıda ertesi güne taşan artış, klik hissi veya kaynamama şüphesinde yük kesilip radyoloji/BT değerlendirmesi için cerraha bildirilir.</li>
+<li><strong>Hasta Eğitimi:</strong> DTM düzleminin amacı ve uzun dönemde kaynamayan skafoidin SNAC/SLAC artrozuna yol açabileceği anlatılarak spora dönüşte sabırlı kademeli yükleme sağlanır.</li>
+</ul>
 <hr>
 <h2 id="vaka-16-periferik-tfcc-onarımı-ve-druj-muenster">VAKA 16 — PERİFERİK TFCC ONARIMI VE DRUJ (MUENSTER)</h2>
 <p><strong>Hasta:</strong> 36 yaşında kadın, tenis antrenörü; foveal/periferik (Palmer Tip 1B) TFCC yırtığı artroskopik onarımı sonrası 2. haftada geliyor.</p>
 <ul>
 <li><strong>Ortez Seçimi:</strong> Sadece bilek cock-up ortezi ön kol pronasyon–supinasyonunu durduramaz → humerus kondillerini kavrayıp dirsek fleksiyon-ekstansiyonuna izin verirken <strong>ön kol rotasyonunu mekanik olarak sınırlayan Muenster ortezi</strong> (genellikle ilk <strong>4–6 hafta</strong>) uygulanır.</li>
 <li><strong>İlerleme:</strong> 4–6. haftadan sonra kontrollü ağrısız pronasyon–supinasyon arkı, sonra DTM ve ~8–12. haftadan itibaren hafif yük aktarımı (ulnar stiloid yüklenmesine ve <em>ulnar fovea / piano key</em> bulgularına dikkat edilerek).</li>
+</ul>
+<h3 id="muayene-ilerleme-ve-kırmızı-bayraklar">Muayene, İlerleme ve Kırmızı Bayraklar</h3>
+<ul>
+<li><strong>Muayene (2. hafta):</strong> Ulnar fovea oluğunda hafif postop hassasiyet; Muenster ortezi uyumlu (olekranon, ulnar stiloid basısı ve dirsek katında cilt maserasyonu yok); dirsek fleksiyon–ekstansiyonu ile parmak/omuz AROM tam, dorsal ulnar kutanöz duyu korunmuş.</li>
+<li><strong>Faz İlerlemesi ve Kırmızı Bayraklar:</strong> 4–6. haftada rotasyona geçişte ağrı eşiği korunur; ardından ECU + pronator quadratus ile dinamik DRUJ stabilizasyonu ve 8–12+ haftada raket yüklemesine aşamalı dönüş planlanır. Yeni <em>piano key</em> instabilitesi, keskin ulnar fovea ağrısı alevlenmesi veya ortez kaynaklı ulnar sinir irritasyonunda yük geri çekilip cerrahla görüşülür; hastaya raket vuruş tekniği ve ön kol rotasyon yükünü kademeli artırma öğretilir.</li>
 </ul>
 `},"06_Vaka_RA_ve_Artroplasti":{title:"VAKA 6 — ROMATOİD ARTRİT ARTROPLASTİSİ VE CMC-1 LRTI",path:"Vaka_Analizleri/06_Vaka_RA_ve_Artroplasti.md",html:`<h1 id="vaka-6-romatoid-artrit-artroplastisi-ve-cmc-1-lrtı">VAKA 6 — ROMATOİD ARTRİT ARTROPLASTİSİ VE CMC-1 LRTI</h1>
 <hr>
@@ -688,6 +711,25 @@ Kuvvetlendirme, CRPS bulguları dinlenmediği sürece ilerletilmez.</li>
 <h3 id="klinik-karar-provası">Klinik karar provası</h3>
 <p>Ameliyat notundan hangi MCP&#39;lerin ve hangi yumuşak dokuların işlem gördüğünü doğrula. İlk ölçümde ortez uyumu, hareket sırasında ekstansör mekanizmanın izleği, izinli parmak arkı, şişlik ve yara durumunu kaydet. Aktiviteleri gün içine dağıt ve hastayla hafif bir özbakım hedefi seç. Geçmişteki el görünümüne dönme beklentisini ve güncel işlev hedefini ayrı konuş. Artan ekstansiyon kaybı, yeni sapma, ortez basısı veya inflamatuvar alevlenmede önce programı ve cerrahi talimatı yeniden değerlendir.</p>
 <p><strong>İzlem:</strong> Kazanım çatal/kaşık kullanımı veya anahtar çevirme gibi hastanın seçtiği görevle doğrulanır. Koruyucu ortez kullanımını, ev uygulamasını ve yeniden değerlendirme tarihini hastanın kendi cümlesiyle geri anlatmasını iste. <a class="wl" href="#" data-note="02_Mesleki_Uygulama_ve_Kanit" data-h="3-3-prognoz-yeniden-değerlendirme-ve-aktiviteye-dönüş">02 Mesleki Uygulama ve Kanit › 3.3 Prognoz, Yeniden Değerlendirme ve Aktiviteye Dönüş</a></p>
+<h3 id="muayene-bulguları">Muayene Bulguları</h3>
+<ul>
+<li><strong>Yara ve Ödem:</strong> Postop 5. gün; dorsal kesi kuru, sütürler sağlam, el sırtında hafif–orta ödem; enfeksiyon yok.</li>
+<li><strong>Dizilim ve ROM:</strong> 2–5. MCP&#39;ler outrigger ile 0° ekstansiyon ve hafif radial hizada (işaret parmağında pronasyon eğilimi izlenir); aktif MCP fleksiyon 0–35°, PIP/DIP serbest. İstirahat ağrısı 2/10, hareketle 3–4/10; akut sinovit alevlenmesi yok.</li>
+</ul>
+<h3 id="hafta-bazlı-ilerleme-ve-geri-çekilme-ölçütleri">Hafta Bazlı İlerleme ve Geri Çekilme Ölçütleri</h3>
+<ul>
+<li><strong>0–6. hafta:</strong> Gün boyu dinamik outrigger (çekiş proksimal falanksa 90° ve hafif radial), gece MCP ekstansiyon + parmak ayraçlı statik ortez. Aktif MCP fleksiyonu ~60–70° hedeflenir; &gt;80–90° zorlama ve lateral pinch yasak.</li>
+<li><strong>6–12. hafta:</strong> Gündüz outrigger azaltılır, gece ortezi 3–6 ay sürer; çatal/kaşık tutma gibi hafif özbakım görevlerine geçilir.</li>
+<li><strong>Geri Çekilme:</strong> Yeni MCP ekstansiyon lag&#39;i, ulnara kayma, &gt;30 dk süren ortez bası kızarıklığı veya sıcak-şiş RA alevlenmesinde fleksiyon durdurulup ekstansiyon ortezine ağırlık verilir.</li>
+</ul>
+<h3 id="kırmızı-bayraklar-ve-cerraha-bildirim-eşikleri">Kırmızı Bayraklar ve Cerraha Bildirim Eşikleri</h3>
+<ul>
+<li>İnsizyonda enfeksiyon, ani aktif parmak ekstansiyon/fleksiyon kaybı (santralizasyon ayrılması veya Vaughan-Jackson/Mannerfelt rüptürü), implant kırığı/sublüksasyonu veya şiddetli alevlenmede aynı gün cerraha bildirilir.</li>
+</ul>
+<h3 id="terapötik-hasta-eğitimi">Terapötik Hasta Eğitimi</h3>
+<ul>
+<li>Stabiliteyi implantın değil çevrede oluşan kapsülün sağladığı; &quot;2 saat ağrı kuralı&quot;, iki elle geniş temasla yük taşıma ve ulnar itiş/lateral pinçten kaçınma öğretilir.</li>
+</ul>
 <hr>
 <h2 id="vaka-11-eaton-ııı-cmc-1-oa-trapeziektomi-ve-lrtı">VAKA 11 — EATON III CMC-1 OA TRAPEZİEKTOMİ VE LRTI</h2>
 <p><strong>Hasta:</strong> 64 yaşında kadın, terzi; Eaton Evre III başparmak karpometakarpal osteoartriti (radyografide eklem kaybı, &gt;2 mm osteofitler, STT korunmuş) nedeniyle trapeziektomi + FCR tendon şeridiyle LRTI geçirmiş. Postop 10. gün dikişler alınıyor.</p>
@@ -699,6 +741,17 @@ Kuvvetlendirme, CRPS bulguları dinlenmediği sürece ilerletilmez.</li>
 <li><strong>8–12+ hafta:</strong> Ağrısız hafif/orta pinch ve dikiş işi görevlerine geçiş; tam ağır kavrama/pinch ~3–6 ay.</li>
 </ul>
 </li>
+</ul>
+<h3 id="muayene-bulguları">Muayene Bulguları</h3>
+<ul>
+<li><strong>Yara ve Duyu:</strong> Postop 10. gün; kesiler kapanmış, dikişler alınıyor, tenar tabanda hafif ödem var. Yüzeyel radial sinir duyu alanında uyuşma yok, Tinel negatif; FCR donör hattında aşırı hassasiyet veya enfeksiyon bulgusu yok.</li>
+<li><strong>Hareket ve Dizilim:</strong> Thumb spica içinde CMC-1 palmar-radial abduksiyonda korunmuş; başparmak IP aktif ROM tam (0–70°), komşu 2–5. parmaklar ve omuz AROM tam. Pinch taklidinde MCP-1 hiperekstansiyon (Z-deformitesi) eğilimi not ediliyor.</li>
+</ul>
+<h3 id="faz-bazlı-ilerleme-kırmızı-bayraklar-ve-hasta-eğitimi">Faz Bazlı İlerleme, Kırmızı Bayraklar ve Hasta Eğitimi</h3>
+<ul>
+<li><strong>İlerleme ve Geri Çekilme:</strong> 6. haftadan itibaren başparmak opposition çalışılırken küçük parmak tabanına zorlamalı fleksiyon yaptırılmaz (rekonstrüksiyonu gerer); pinche geçişte MCP-1 hafif fleksiyonda tutulur (gerekirse MCP&#39;yi kontrol eden kısa destek eklenir). Ertesi güne taşan başparmak tabanı ağrısı veya şişlik artışı olursa ortezsiz süre kısaltılıp spikaya dönülür.</li>
+<li><strong>Kırmızı Bayraklar (Cerraha Bildirim):</strong> Başparmak tabanında ilerleyici derin mekanik ağrı/kısalma (1. metakarp çökmesi/impingement şüphesi), yüzeyel radial sinir veya FCR nöropatisi/tendon sorunu, yara enfeksiyonu.</li>
+<li><strong>Hasta Eğitimi:</strong> Kuvvet kazanımının 3–6 aya yayılan yavaş bir süreç olduğu vurgulanır; erken güçlü pinchin boşluğu çökertebileceği, terzilikte kalın saplı/yaylı makas ve ergonomik yüksük kullanımı anlatılır.</li>
 </ul>
 `},"07_Vaka_Yanik_ve_Replantasyon":{title:"VAKA 7 — DORSAL EL YANIĞI VE BAŞPARMAK REPLANTASYONU",path:"Vaka_Analizleri/07_Vaka_Yanik_ve_Replantasyon.md",html:`<h1 id="vaka-7-dorsal-el-yanığı-ve-başparmak-replantasyonu">VAKA 7 — DORSAL EL YANIĞI VE BAŞPARMAK REPLANTASYONU</h1>
 <hr>
@@ -720,6 +773,23 @@ Kuvvetlendirme, CRPS bulguları dinlenmediği sürece ilerletilmez.</li>
 <h3 id="klinik-karar-provası">Klinik karar provası</h3>
 <p>Greftin tutumu, eklem/tendon örtüsü, kullanılacak ortez ve hareket sınırı yanık ekibinden doğrulanır. İlk seansta yara/greft görünümü, ortez temas alanı, şişlik, izinli eklem arkı ve ağrı yanıtı kaydedilir. Yeni kanama, greft kenarında ayrılma veya yeni renk değişiminde uygulamayı durdurup ekiple görüş. İzlemde parmakların kompozit hareketine geçiş ve yüklenme planı doku güvenliğiyle ilişkilendirilir.</p>
 <p><strong>İşlevsel ilerleme:</strong> Birinci web açıklığı ve parmakların izinli konumda yerleşimi başlangıçta ölçülebilir. Hasta, onaylanan ark içinde mutfak görevini temsil eden hafif, temiz bir nesneyi destekli tutmayı dener. Zorluk artırıldığında cilt yanıtı ve ortez uyumu tekrar gözlenir. <a class="wl" href="#" data-note="02_Yanik_Eli">Yanik Eli</a> · <a class="wl" href="#" data-note="04_Yara_Farmakoloji_Tibbi_Tarama" data-h="2-3-yara-ölçümü-pansuman-ve-klinik-karar">04 Yara Farmakoloji Tibbi Tarama › 2.3 Yara Ölçümü, Pansuman ve Klinik Karar</a></p>
+<h3 id="muayene-bulguları">Muayene Bulguları</h3>
+<ul>
+<li><strong>Greft ve Cilt:</strong> Postop 6. gün; el sırtındaki STSG pembe-vaskülarize, hematom/seroma veya enfeksiyon yok; PIP dorsumunda cilt ince (santral slip hassas).</li>
+<li><strong>Ödem ve Dizilim:</strong> Parmak sırtlarında orta ödem, 1. web aralığında erken daralma eğilimi; izole hareketler cerrah izniyle nazik başlatılıyor, dolaşım ve kapiller dolum normal.</li>
+</ul>
+<h3 id="faz-bazlı-ilerleme-ve-geri-çekilme-ölçütleri">Faz Bazlı İlerleme ve Geri Çekilme Ölçütleri</h3>
+<ul>
+<li><strong>0–5/7. gün:</strong> Greftte kayma stresini önlemek için antideformite immobilizasyonu (bilek 20–30° ekstansiyon, MCP 70–90° fleksiyon, IP 0°, başparmak palmar-radial abduksiyon); omuz/dirsek hareketli.</li>
+<li><strong>6. gün–3. hafta:</strong> Damarlanma onaylanınca nazik izole eklem hareketi (santral slip için kompozit yumruk yasak); ödem indikçe termoplastik sık yeniden kalıplanır.</li>
+<li><strong>3+ hafta (12–18+ ay):</strong> Epitelizasyon sonrası <del>20–30 mmHg basınç eldiveni (</del>23 saat/gün) + 1. web inserti + silikon tabaka; germe skarda <strong>beyazlaşma (blanching)</strong> sınırında tutulur.</li>
+<li><strong>Geri Çekilme:</strong> Greft kenarında yeni kanama/ayrılma veya artan ödemde hareket durdurulup immobilizasyona dönülür.</li>
+</ul>
+<h3 id="kırmızı-bayraklar-ve-terapötik-hasta-eğitimi">Kırmızı Bayraklar ve Terapötik Hasta Eğitimi</h3>
+<ul>
+<li><strong>Cerraha Bildirim:</strong> Greft kaybı/hematom, enfeksiyon, santral slip rüptürü (boutonnière), dolaşım bozukluğu, dirsekte sert uç hisli ani ROM kaybı (HO) ve geç dönem iyileşmeyen yara (Marjolin ülseri).</li>
+<li><strong>Hasta Eğitimi:</strong> Skar olgunlaşmasının 12–18+ ay sürdüğü, ~23 saat eldiven giyimi, nemlendirme, güneşten korunma ve mutfak ısısından koruma anlatılır.</li>
+</ul>
 <hr>
 <h2 id="vaka-13-başparmak-amputasyon-replantasyonu">VAKA 13 — BAŞPARMAK AMPUTASYON REPLANTASYONU</h2>
 <p><strong>Hasta:</strong> 33 yaşında erkek, marangoz; sağ başparmak proksimal falanks seviyesinden temiz giyotin tarzı tam amputasyon geçirmiş, parça dolaylı soğutmada (nemli steril gaz → kapalı torba → buz-su) getirilmiş ve 5 saat içinde mikrocerrahiyle başarıyla replante edilmiştir. Postop 36. saat yoğun bakım izlemindesiniz.</p>
@@ -731,6 +801,18 @@ Kuvvetlendirme, CRPS bulguları dinlenmediği sürece ilerletilmez.</li>
 </li>
 <li><strong>Vazospazm Profilaksisi:</strong> Oda sıcak (&gt;22–24°C), <strong>kafein, nikotin ve tüm soğuk modaliteler kesin yasaktır!</strong> Ağrı ve anksiyete sıcak vazokonstriksiyonu tetiklediğinden kontrol altında tutulur.</li>
 <li><strong>Erken Terapi:</strong> İlk <strong>5–7+ gün</strong> vasküler stabilite sağlanana dek el dinlendirilir (sargıyı sıkmayan hafif koruyucu kabuk); <strong>2.–3. haftada</strong> cerrah onayıyla damarlara gerim vermeyen çok nazik korumalı tendon kaydırma, sonra kemik kaynama ve sinir duyu iyileşmesi izlenir; geç dönemde <strong>soğuk intoleransı (CISS)</strong> için termal eldiven eğitimi verilir.</li>
+</ul>
+<h3 id="muayene-bulguları">Muayene Bulguları</h3>
+<ul>
+<li><strong>Vasküler Durum (36. saat):</strong> Başparmak pulpası pembe ve sıcak, turgor dolgun ve doğal, kapiller dolum ~1–2 sn. Sargılar damar pedikülüne bası yapmayacak kadar gevşek; kemik fiksasyonu (K-teli) ve nörovasküler onarımlar stabil.</li>
+</ul>
+<h3 id="faz-bazlı-ilerleme-kırmızı-bayraklar-ve-hasta-eğitimi">Faz Bazlı İlerleme, Kırmızı Bayraklar ve Hasta Eğitimi</h3>
+<ul>
+<li><strong>0–7+ gün (Vasküler Koruma):</strong> El kalp seviyesinde tutulur (aşırı elevasyon arteryel akımı, sarkıtma venöz dönüşü bozar); bası yapmayan dorsal koruyucu kabuk ve sık vasküler izlem.</li>
+<li><strong>2–4. hafta (Korumalı Hareket):</strong> Cerrah onayıyla damar/tendon onarımını germeyen tenodez prensipli sınırlı pasif/place-hold hareketler; eklemi geçen K-teli varsa o eklem zorlanmaz. Her seans sonrası renk ve kapiller dolum yeniden ölçülür.</li>
+<li><strong>6–12+ hafta (Kemik ve Sinir İyileşmesi):</strong> Önce damar, sonra kemik/tendon, en son sinir iyileşmesi sırası izlenir; kaynama sonrası kademeli aktif/dirençli egzersiz, ardından koruyucu duyu eğitimi ve duyu re-edukasyonu eklenir.</li>
+<li><strong>Geri Çekilme ve Cerrah Bildirimi:</strong> Seans sırasında renk değişimi veya dolum bozulması olursa egzersiz derhal kesilir, el kalp seviyesine alınır, sıkı bandaj/kayış gevşetilir ve cerraha bildirilir; venöz konjesyonda tıbbi sülük kullanılırsa <em>Aeromonas</em> profilaksisi ve hemoglobin izlemi hekimce sürdürülür.</li>
+<li><strong>Hasta Eğitimi:</strong> Pasif içicilik dahil nikotin, kafein ve soğuk maruziyeti yasağı (aileyi de kapsar); kemik kısaltmaya bağlı hafif parmak kısalmasının damar/siniri gerimsiz onarmak için beklenen bir sonuç olduğu ve soğuk intoleransında termal eldiven/marangozluk uyarlaması gerektiği anlatılır.</li>
 </ul>
 `},"05_Vaka_CRPS_ve_Agrisal_Yonetim":{title:"VAKA 5 — CRPS TİP I VE NÖROPATİK AĞRI YÖNETİMİ",path:"Vaka_Analizleri/05_Vaka_CRPS_ve_Agrisal_Yonetim.md",html:`<h1 id="vaka-5-crps-tip-ı-ve-nöropatik-ağrı-yönetimi">VAKA 5 — CRPS TİP I VE NÖROPATİK AĞRI YÖNETİMİ</h1>
 <hr>
@@ -752,6 +834,29 @@ Kuvvetlendirme, CRPS bulguları dinlenmediği sürece ilerletilmez.</li>
 <h3 id="klinik-karar-provası">Klinik karar provası</h3>
 <p>Alçı sonrası şiddetli ağrıya tanı koymadan önce hastanın bildirdiği semptomları muayene bulgularından ayır. Öyküde <strong>dokunma hassasiyeti</strong> (duyusal), <strong>ısı/renk değişikliği</strong> (vazomotor), <strong>şişlik/terleme</strong> (sudomotor/ödem) ve <strong>hareket veya trofik değişiklikler</strong> ayrı işaretlenir. Muayenede bugün görülenleri kaydet. Ağrı ölçüsünü istirahat ve seçilen görev için ayrı al. Eşlik eden yeni yayılan eritem, ateş, ilerleyen odaksal motor kayıp veya fiksasyonla ilgili sorun varsa önce alternatif tıbbi nedeni değerlendir.</p>
 <p><strong>İlk hedef:</strong> Hastanın seçtiği hafif bir görevi güvenli süreyle yapabilmesi. Örneğin başlangıçta masaya elini hafifçe dayayıp rahat hareket arkını tolere etmesini izleyebilirsin. Kontrolde aynı görev, aynı koşul ve ertesi gün semptom yanıtını kaydet. Bir alanda yükü artırırken diğerlerini sabit tut. Semptomlar belirgin ve kalıcı kötüleşirse görevi yeniden derecelendir ve ekiple yeniden değerlendir. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9186375/">CRPS klinik kılavuzu</a></p>
+<h3 id="muayene-bulguları">Muayene Bulguları</h3>
+<ul>
+<li><strong>Ağrı (NRS):</strong> İstirahatte 6/10, hafif dokunma/harekette 8/10 yanıcı ağrı; gece sık uyanma.</li>
+<li><strong>Duyusal:</strong> Sol elde periferik sinir trasesine uymayan yaygın allodini ve hiperaljezi; fokal sinir kesisi yok.</li>
+<li><strong>Vazomotor / Sudomotor:</strong> Sol el karşıya göre sıcak-eritemli (ısı/renk dalgalanması öyküsü); dorsumda gode bırakan (+2) ödem, artmış palmar terleme.</li>
+<li><strong>Motor / Trofik:</strong> Parlak gergin cilt, tırnak büyüme farkı, bilek AROM 20°/20°, kompozit yumrukta 3.5 cm DPC açığı, Jamar uygulanamıyor; yüksek kinezyofobi.</li>
+<li><strong>Ölçüt Özeti:</strong> Budapeşte ölçütlerinde 4/4 semptom ve 4/4 bulgu kategorisi pozitif; sinir hasarı dışlandığından <strong>CRPS Tip I</strong>.</li>
+</ul>
+<h3 id="faz-bazlı-ilerleme-ve-geri-çekilme-ölçütleri">Faz Bazlı İlerleme ve Geri Çekilme Ölçütleri</h3>
+<ul>
+<li><strong>1–3. hafta (Akut İrritabl):</strong> PNE + GMI 1. basamak (sağ/sol ayrımı, 2–3×/gün 5–10 dk), destekli elevasyon, ağrı eşiğinde pompa ve pamuk/ipek desensitizasyonu. Agresif pasif germe ve buz/soğuk şok yasak.</li>
+<li><strong>3–6. hafta (Kortikal Haritalama):</strong> GMI 2. basamak (motor imgeleme) → 3. basamak (ayna terapisi); ağrısız aktif/aktif-yardımlı bilek-parmak kaymaları, hafif özbakım görevleri.</li>
+<li><strong>6+ hafta (Fonksiyonel Yüklenme):</strong> Allodini yatışınca <strong>Watson Stress Loading</strong> (kısa süreli <em>scrubbing</em> ve hafif <em>carrying</em>), kademeli kavrama ve masa başı görevlere dönüş.</li>
+<li><strong>İlerleme / Geri Çekilme:</strong> Ertesi güne taşan ağrı, şişlik veya uyku bozulması yoksa tek parametre (süre veya yük) artırılır; volumetride &gt;%5 artış veya kalıcı alevlenmede yük bir basamak geri çekilir.</li>
+</ul>
+<h3 id="kırmızı-bayraklar-ve-cerraha-bildirim-eşikleri">Kırmızı Bayraklar ve Cerraha Bildirim Eşikleri</h3>
+<ul>
+<li>Yeni yayılan eritem, ateş veya pürülan akıntı (enfeksiyon), ilerleyen odaksal motor/duyu defisiti (CRPS Tip II / fiksasyon sorunu) ya da dirençli alevlenmede aynı gün hekim ve ağrı ekibi koordinasyonu.</li>
+</ul>
+<h3 id="terapötik-hasta-eğitimi">Terapötik Hasta Eğitimi</h3>
+<ul>
+<li>&quot;Ağrı eşittir doku hasarı değil; alarm eşiği düşmüştür&quot; mesajıyla kinezyofobiyi azaltma; uyku hijyeni, nefes/gevşeme ve düzenli kısa ağrısız GMI seansları öğretilir.</li>
+</ul>
 <hr>
 <h2 id="vaka-9-kts-sonrası-pıllar-paın-ve-nöropatik-ağrı">VAKA 9 — KTS SONRASI PILLAR PAIN VE NÖROPATİK AĞRI</h2>
 <p><strong>Hasta:</strong> 47 yaşında erkek, tesisatçı; sağ açık karpal tünel gevşetme ameliyatının 5. haftasında gece parestezileri tamamen geçmiş, ancak tenar ve hipotenar çıkıntıların hemen ortasındaki avuç içi tabanında (pillar bölgesi) yüklenmeyle keskin batıcı ağrı ve kesi hattında hiperestezi (allodini) bildiriyor.</p>
@@ -763,6 +868,16 @@ Kuvvetlendirme, CRPS bulguları dinlenmediği sürece ilerletilmez.</li>
 <li>Kademeli <strong>desensitizasyon merdiveni</strong> (yumuşak pamuk → mikrofiber → pirinç → fasulye → silikon tabaka ve hafif skar masajı; her uyarı <strong>3–5 dk × 4–6/gün</strong>, tolere edilebilen şiddette).</li>
 </ol>
 </li>
+</ul>
+<h3 id="muayene-bulguları">Muayene Bulguları</h3>
+<ul>
+<li><strong>İnsizyon ve Nörolojik Durum:</strong> 5. haftada kesi tamamen epitelize ve kuru; kızarıklık/akıntı yok, insizyon çevresinde lokal allodini. İstirahat ağrısı 1/10, avuç basısında 6–7/10 pillar pain; gece uyuşması 0/10, Phalen/Durkan negatif, APB kuvveti korunmuş.</li>
+</ul>
+<h3 id="faz-bazlı-ilerleme-kırmızı-bayraklar-ve-hasta-eğitimi">Faz Bazlı İlerleme, Kırmızı Bayraklar ve Hasta Eğitimi</h3>
+<ul>
+<li><strong>5–8. hafta:</strong> Epitelizasyon sonrası silikon jel (12+ saat/gün) + hafif skar masajı (3–4×/gün, 2–5 dk), desensitizasyon merdiveni, sinir/tendon <em>slider</em> ve hafif izometrik sıkma.</li>
+<li><strong>8–12+ hafta:</strong> Toleransa göre yumuşak putty&#39;den kademeli kavramaya ve silikon pedli kalın saplı aletlere geçiş; ertesi güne taşan pillar ağrısı veya şişlikte yük düşürülür.</li>
+<li><strong>Kırmızı Bayraklar ve Eğitim:</strong> Tekrarlayan gece parestezisi, ilerleyen tenar güç kaybı, insizyon akıntısı veya CRPS bulgularında hekime bildirilir; pillar pain&#39;in tipik 3–6 ayda gerilediği ve sert yüzeye avuçla dayanmama eğitimi verilir.</li>
 </ul>
 `},"01_Coktan_Secmeli_Sinav":{title:"SINAV 1 — ÇOKTAN SEÇMELİ (30 SORU)",path:"Sinavlar/01_Coktan_Secmeli_Sinav.md",html:`<h1 id="sınav-1-çoktan-seçmeli-30-soru">SINAV 1 — ÇOKTAN SEÇMELİ (30 SORU)</h1>
 <blockquote>
